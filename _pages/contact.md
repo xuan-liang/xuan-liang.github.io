@@ -5,13 +5,9 @@ author_profile: true
 ---
 
 
+[Research School of Finance, Actuarial Studies and Statistics](https://rsfas.anu.edu.au/)<br>
 
-
-Address
-======
-Research School of Finance, Actuarial Studies and Statistics<br>
-
-ANU College of Business and Economics<br>
+[ANU College of Business and Economics](https://cbe.anu.edu.au/welcome-cbe)<br>
 
 26C Kingsley Street, The Australian National University<br>
 
