@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-### The Australian National University
+### Course convened at the Australian National University
 
   - STAT4102/STAT8002 Applied Time Series Analysis
   
@@ -16,9 +16,9 @@ classes: wide
   
   - STAT7206 Graphical Data Analysis
   
-  ### Teaching Awards
+ ### Teaching Awards
   
-  - ANU Vice-Chancellor?s Citation for Outstanding Contribution to Student Learning (Early Career), 2022.
+  - ANU Vice-Chancellor's Citation for Outstanding Contribution to Student Learning (Early Career), 2022.
   - CBE Teaching Commendation for Outstanding Teaching, 2020.
 
  
