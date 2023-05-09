@@ -17,8 +17,8 @@ I am currently a lecturer in [Research School of Finance, Actuarial Studies and 
 
 **Education**
 ------
-- 2012.8 -- 2017.6: Ph.D. in Statistics, Peking University, China. 
-- 2008.8 -- 2012.7: B.Sc. in Statistics, Zhejiang University, China.
+- 2017, Ph.D. in Statistics, Guanghua School of Management, Peking University, China. 
+- 2012, B.Sc. in Statistics, Department of Mathematics, Zhejiang University, China.
 
 **Research Interests**
 ------
