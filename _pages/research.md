@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### Pulications
+### Publications
 
 ### Preprints
 

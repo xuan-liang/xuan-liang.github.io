@@ -20,3 +20,7 @@ I am currently a lecturer in [Research School of Finance, Actuarial Studies and 
 - 2012.8 -- 2017.6: Ph.D. in Statistics, Peking University, China. 
 - 2008.8 -- 2012.7: B.Sc. in Statistics, Zhejiang University, China.
 
+**Research Interests**
+------
+Spatial modelling, panel data, nonparametric statistics, network data modelling, environmental statistics, big data analysis and statistical machine learning.
+
