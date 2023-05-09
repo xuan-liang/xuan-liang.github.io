@@ -22,5 +22,5 @@ I am currently a lecturer in [Research School of Finance, Actuarial Studies and 
 
 **Research Interests**
 ------
-Spatial modelling, panel data, nonparametric statistics, network data modelling, environmental statistics, big data analysis and statistical machine learning.
+Spatial data modelling, nonparametric statistics, network data modelling and environmental statistics.
 
