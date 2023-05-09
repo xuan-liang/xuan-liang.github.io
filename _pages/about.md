@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xuan Liang"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
