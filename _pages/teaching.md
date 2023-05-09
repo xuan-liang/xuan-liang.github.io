@@ -16,8 +16,10 @@ classes: wide
   
   - STAT7206 Graphical Data Analysis
   
- ### Teaching Awards
-  
+   
+
+### Teaching Awards
+------
   - ANU Vice-Chancellor's Citation for Outstanding Contribution to Student Learning (Early Career), 2022.
   - CBE Teaching Commendation for Outstanding Teaching, 2020.
 
