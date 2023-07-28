@@ -11,7 +11,7 @@ author_profile: true
 
 - Liu, W., **Liang, X.** and Cui, G. (2020) [Common risk factors in the returns on cryptocurrencies.](https://doi.org/10.1016/j.econmod.2019.09.035) *Economic Modelling*, 86, 299-305.
 
-- Russell, L., Holst, L. B., Lange, T., **Liang, X.**, Ostrowski, S. R. and Perner, A. (2018). [Effects of anaemia and blood transfusion on clot formation and platelet function in patients with septic shock: a sub-study of the randomized TRISS trial.](https://www.ncbi.nlm.nih.gov/pubmed/30394552) *Transfusion*, 58, 2807-2818.
+- Russell, L., Holst, L. B., Lange, T., **Liang, X.**, Ostrowski, S. R. and Perner, A. (2018). [Effects of anaemia and blood transfusion on clot formation and platelet function in patients with septic shock: a sub-study of the randomized TRISS trial.](https://onlinelibrary.wiley.com/doi/10.1111/trf.14904) *Transfusion*, 58, 2807-2818.
 
 - **Liang, X.**, Li, S., Zhang, S., Huang, H. and Chen, S. X. (2016). [PM2.5 data reliability, consistency and air quality assessment in five Chinese cities.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JD024877) *Journal of Geophysical Research: Atmospheres*, 121, 10220-10236. 
 
@@ -31,7 +31,7 @@ author_profile: true
 
 ### Software and Patent
 
-- **Liang, X.**, Hui, F.K.C., Tanaka, E. and Seimon, D. (2022). [`ggmatplot`](https://cran.r-project.org/web/packages/ggmatplot/index.html): Plot columns of two matrices against each other using `ggplot`. (*I am also the maintainer of this R package.*)
+- **Liang, X.**, Hui, F.K.C., Tanaka, E. and Seimon, D. (2022). `[ggmatplot](https://cran.r-project.org/web/packages/ggmatplot/index.html)`: Plot columns of two matrices against each other using `ggplot`. (*I am also the maintainer of this R package.*)
 
 - Chen, S.X., Zhang, S., **Liang, X**. (2018) Air Quality Assessment Methods, Equipments, Devices and Storage. CN Patent, 2018 1 1183512.0, filed October 11, 2018, and issued October 15, 2019.
 
