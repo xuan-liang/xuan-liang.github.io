@@ -7,6 +7,8 @@ author_profile: true
 
 ### Publications
 
+<span>&dagger;</span> indicates the corresponding author.
+
 - **Liang, X.**, Gao, J. and Gong, X. (2022). [Semiparametric spatial autoregressive panel data model with fixed effects.](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.1979564) *Journal of Business & Economic Statistics*, 40, 1784-1802.
 
 - Liu, W., **Liang, X.** and Cui, G. (2020) [Common risk factors in the returns on cryptocurrencies.](https://doi.org/10.1016/j.econmod.2019.09.035) *Economic Modelling*, 86, 299-305.
