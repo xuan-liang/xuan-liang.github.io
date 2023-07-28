@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Uploading.
+[[CV]](../files/CV_XuanLiang.pdf)
